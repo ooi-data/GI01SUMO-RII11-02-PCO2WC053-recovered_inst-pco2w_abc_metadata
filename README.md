@@ -1,3 +1,5 @@
-# Stream Template Repository
+# GI01SUMO-RII11-02-PCO2WC053-recovered_inst-pco2w_abc_metadata
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Metadata<br>
+Instrument Group Code: PCO2W<br>
