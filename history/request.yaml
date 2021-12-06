@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: GI01SUMO-RII11-02-PCO2WC053-recovered_inst-pco2w_abc_metadata
+last_request: '2021-12-06T20:28:48.889322Z'
+response: https://raw.githubusercontent.com/ooi-data/GI01SUMO-RII11-02-PCO2WC053-recovered_inst-pco2w_abc_metadata/main/history/response.json
+status: discontinued
